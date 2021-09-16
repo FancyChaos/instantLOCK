@@ -5,6 +5,8 @@
 </div>
 
 --------
+Changed the name of the unprivileged group to "nogroup". "nobody" as group does not exist on debian.
+
 
 ## Usage
 lock the screen and show a random dad joke
